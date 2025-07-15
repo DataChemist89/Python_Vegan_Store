@@ -3,3 +3,5 @@ The software is written in **Python**, and each folder contains a complete, self
 - The vegan_store_IPYNB directory provides the project in **Jupyter Notebook format (.ipynb)**, suitable for execution in environments like Jupyter Notebook or Google Colab.
 
 - The vegan_store_PY directory contains the **script-based version (.py)**, which can be run from the **Anaconda** terminal or any Python-compatible command line interface.
+
+![](https://github.com/DataChemist89/Python_Vegan_Store/blob/main/banner.png)
